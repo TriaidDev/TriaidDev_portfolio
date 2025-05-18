@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TRIAIDDEV Portfolio Website
 
@@ -97,3 +98,7 @@ For production, you'll need to set up the following environment variables:
 - Update colors in `tailwind.config.ts` to match your brand
 - Replace placeholder content with your actual services and projects
 - Add Google Analytics or other tracking tools
+=======
+# TriaidDev_portfolio
+portfolio of TriaidDev 
+>>>>>>> ca6bd936236423d52df9dacf1b17ef1fd511c79a
